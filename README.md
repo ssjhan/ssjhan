@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=skyblue&height=200&section=header&text=welcome&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=#87ceeb&height=200&section=header&text=welcome&fontSize=50)
 
 # 💻 Tech Stack:
 ## ✨ Language:
